@@ -1,6 +1,5 @@
 *.swp
 *.pyc
 .env/*
-cs231n/datasets/coco_captioning/
+assignment3/cs231n/datasets/coco_captioning/
 # gitignore the built release.
-assignment3/*
